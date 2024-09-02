@@ -56,7 +56,7 @@ body{
         border-radius: 30px;
         flex: 1;
         margin-right: 10px;
-        font-size: 10px;
+        font-size: 18px;
     }
 }
 @media only screen and (max-width: 425px){
