@@ -9,7 +9,8 @@ body{
 }
 #pp{
     text-align:center;
-    margin:5px;
+    margin:2px;
+    text-size:10px;
     color:#000000;
 }
 .card{
